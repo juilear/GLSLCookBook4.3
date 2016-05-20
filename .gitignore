@@ -45,3 +45,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.log
+*.lastbuildstate
+*.tlog
+*.obj
+*.pdb
+*.ilk
+chapter01/Debug/chapter01.exe
+ingredients/Debug/ingredients.lib
+chapter02/Debug/chapter02.exe
+chapter03/Debug/chapter03.exe
+chapter04/Debug/chapter04.exe
+chapter05/Debug/chapter05.exe
+chapter06/Debug/chapter06.exe
+chapter07/Debug/chapter07.exe
+chapter10/Debug/chapter10.exe
+chapter08/Debug/chapter08.exe
+chapter09/Debug/chapter09.exe
+GLSLCOOKBOOK.v12.suo
+GLSLCOOKBOOK.sdf
+*.sdf
